@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marawanemad
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning data science 
+- 📫 How to reach me marawanemad717@gmail.com
