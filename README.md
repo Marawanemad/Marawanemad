@@ -6,16 +6,17 @@
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![adamalston.com](https://img.shields.io/badge/-Marwanemad.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Marawanemad)
+[![X](https://img.shields.io/badge/-Marwanemad.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logo=Dart&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=grey)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logo=Dart&logoColor=blue)
 
 ##### Some of the technologies I have worked with
 
