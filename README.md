@@ -4,10 +4,10 @@
 - :computer: Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
-[![Gmail](https://img.shields.io/badge/-Gmail-444444?style=flat&logo=git&logoColor=red)](mailto:marawanemad717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444444?style=flat&logo=git&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![X](https://img.shields.io/badge/--444444?style=flat&logo=git&logoColor=black)](https://x.com/Marawan_3mad)
-[![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=git&logoColor=blue)](https://www.facebook.com/marawanemad717/)
+[![Gmail](https://img.shields.io/badge/-Gmail-444444?style=flat&logo=Gmail&logoColor=red)](mailto:marawanemad717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444444?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
+[![X](https://img.shields.io/badge/--444444?style=flat&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=FaceBook&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
