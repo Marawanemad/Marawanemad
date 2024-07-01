@@ -1,7 +1,7 @@
 ##### Hi, I'm Marawan Emad:
 
 - 🎓graduate from Computer and Data Science - Alexandria University
-- Mobile Developer | Data Scientist | Software engineer 
+- :computer: Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
