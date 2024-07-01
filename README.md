@@ -10,7 +10,7 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=FaceBook&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
