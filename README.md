@@ -26,12 +26,13 @@
 ##### My projects:
 
 - Flutter projects:
-  - ![](https://github.com/Marawanemad/Social-App)
-  - [](https://github.com/Marawanemad/Tasks-Reminder-App) 
+  - [Zero Waste](https://github.com/Marawanemad/Zero-Waste-App)
+  - [Social App](https://github.com/Marawanemad/Social-App)
+  - [Task Reminder](https://github.com/Marawanemad/Tasks-Reminder-App) 
   - [XO Game](https://github.com/Marawanemad/XO_Game) 
-  - [](https://github.com/Marawanemad/ShopApp) 
-  - [](https://github.com/Marawanemad/NewsApp) 
-  - [](https://github.com/Marawanemad/Basics_7_Apps) 
+  - [Shop App](https://github.com/Marawanemad/ShopApp) 
+  - [News App](https://github.com/Marawanemad/NewsApp) 
+  - [Basics 7 Apps](https://github.com/Marawanemad/Basics_7_Apps) 
 
   
   
