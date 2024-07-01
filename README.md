@@ -23,16 +23,15 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=github&logoColor=181717)
 
--
 ##### My projects:
 
 - Flutter projects:
-  - (https://github.com/Marawanemad/Social-App)
-  - (https://github.com/Marawanemad/Tasks-Reminder-App) 
-  - (https://github.com/Marawanemad/XO_Game) 
-  - (https://github.com/Marawanemad/ShopApp) 
-  - (https://github.com/Marawanemad/NewsApp) 
-  - (https://github.com/Marawanemad/Basics_7_Apps) 
+  - ![](https://github.com/Marawanemad/Social-App)
+  - [](https://github.com/Marawanemad/Tasks-Reminder-App) 
+  - [XO Game](https://github.com/Marawanemad/XO_Game) 
+  - [](https://github.com/Marawanemad/ShopApp) 
+  - [](https://github.com/Marawanemad/NewsApp) 
+  - [](https://github.com/Marawanemad/Basics_7_Apps) 
 
   
   
