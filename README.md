@@ -16,7 +16,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
