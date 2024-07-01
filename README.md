@@ -10,7 +10,7 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=FaceBook&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
@@ -25,6 +25,10 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-444444?style=flat&logo=github&logoColor=181717)
 ![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=blue)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=black)
+![Figma](http://img.shields.io/badge/-Figma-444444?style=flat-square&logo=figma&logoColor=black)
+![Canva](http://img.shields.io/badge/-Canva-444444?style=flat-square&logo=canva&logoColor=black)
+
+
 
 ##### My projects:
 
