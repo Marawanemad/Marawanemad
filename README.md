@@ -4,10 +4,10 @@
 - Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
-[![Gmail](https://img.shields.io/badge/-GMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![X](https://img.shields.io/badge/--0077B5?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Marawan_3mad)
-[![FaceBook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=FACEBOOK&logoColor=white)](https://www.facebook.com/marawanemad717/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
+[![X](https://img.shields.io/badge/--222222?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-FACEBOOK-222222?style=for-the-badge&logo=FACEBOOK&logoColor=white)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
@@ -22,7 +22,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=github&logoColor=181717)
 
 ##### My projects:
