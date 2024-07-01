@@ -4,10 +4,10 @@
 - :computer: Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
-[![Gmail](http://img.shields.io/badge/-GMAIL%20IDEA-444444?style=flat-square-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marawanemad717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN%20IDEA-444444?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![X](https://img.shields.io/badge/%20IDEA-444444?style=for-the-badge&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
-[![FaceBook](https://img.shields.io/badge/-FACEBOOK%20IDEA-444444?style=for-the-badge&logo=FACEBOOK&logoColor=blue)](https://www.facebook.com/marawanemad717/)
+[![Gmail](http://img.shields.io/badge/-GMAIL%20-444444?style=flat-square-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marawanemad717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN%20style=flat-square-444444?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
+[![X](https://img.shields.io/badge/%20style=flat-square-444444?style=for-the-badge&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-FACEBOOK%20style=flat-square-444444?style=for-the-badge&logo=FACEBOOK&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
@@ -24,8 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=blue)](https://github.com/microsoft/vscode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-444444?style=flat&logo=github&logoColor=181717)
-![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=blue)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=black)
 
 ##### My projects:
 
