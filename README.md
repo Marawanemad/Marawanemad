@@ -25,10 +25,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=blue)](https://github.com/microsoft/vscode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-444444?style=flat&logo=github&logoColor=181717)
-![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=blue)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=black)
-![Figma](http://img.shields.io/badge/-Figma-444444?style=flat-square&logo=figma&logoColor=black)
-![Canva](http://img.shields.io/badge/-Canva-444444?style=flat-square&logo=canva)
+![Windows](http://img.shields.io/badge/-Windows-444444?style=flat&logo=windows&logoColor=blue)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat&logo=intellij-idea&logoColor=black)
+![Figma](http://img.shields.io/badge/-Figma-444444?style=flat&logo=figma&logoColor=black)
+![Canva](http://img.shields.io/badge/-Canva-444444?style=flat&logo=canva)
 
 
 
