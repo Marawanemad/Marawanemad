@@ -3,6 +3,7 @@
 - 🎓graduate from Computer and Data Science - Alexandria University
 - Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
+  
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
 [![adamalston.com](https://img.shields.io/badge/-Marwanemad.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Marawanemad)
@@ -12,7 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=yellow)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=181717)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=babyblue)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=grey)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
