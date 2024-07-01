@@ -10,7 +10,7 @@
 [![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=FaceBook&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
-
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=src="https://www.vectorlogo.zone/logos/java/java-ar21.svg")
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://dart.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dart/dart-ar21.svg"></a></code>
