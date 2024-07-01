@@ -13,9 +13,9 @@
 
 <code><a href="https://www.java.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.dart.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dart/dart-ar21.svg"></a></code>
-<code><a href="https://www.flutter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg"></a></code>
-<code><a href="https://www.Rorg/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/R/R-ar21.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dart/dart-ar21.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg"></a></code>
+<code><a href="https://www.R.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/R/R-ar21.svg"></a></code>
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
