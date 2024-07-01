@@ -4,10 +4,10 @@
 - :computer: Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
-[![Gmail](https://img.shields.io/badge/-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com&logoColor=red)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/&logoColor=blue)
-[![X](https://img.shields.io/badge/--222222?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Marawan_3mad&logoColor=black)
-[![FaceBook](https://img.shields.io/badge/-FACEBOOK-222222?style=for-the-badge&logo=FACEBOOK&logoColor=white)](https://www.facebook.com/marawanemad717/&logoColor=blue)
+[![Gmail](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com&logoColor=red)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/&logoColor=blue)
+[![X](https://img.shields.io/badge/--444444?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Marawan_3mad&logoColor=black)
+[![FaceBook](https://img.shields.io/badge/-FACEBOOK-444444?style=for-the-badge&logo=FACEBOOK&logoColor=white)](https://www.facebook.com/marawanemad717/&logoColor=blue)
 
 ##### Languages I use
 
@@ -20,12 +20,12 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=blue)](https://github.com/microsoft/vscode)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=github&logoColor=181717)
-![Windows](http://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=blue)](https://github.com/microsoft/vscode)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-444444?style=flat&logo=github&logoColor=181717)
+![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 ##### My projects:
 
