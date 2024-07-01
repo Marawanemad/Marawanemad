@@ -26,7 +26,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=blue)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat-square&logo=intellij-idea&logoColor=black)
 ![Figma](http://img.shields.io/badge/-Figma-444444?style=flat-square&logo=figma&logoColor=black)
-![Canva](http://img.shields.io/badge/-Canva-444444?style=flat-square&logo=canva&logoColor=black)
+![Canva](http://img.shields.io/badge/-Canva-444444?style=flat-square&logo=canva)
 
 
 
