@@ -24,6 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=blue)](https://github.com/microsoft/vscode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=github&logoColor=181717)
+![Windows](http://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 ##### My projects:
 
