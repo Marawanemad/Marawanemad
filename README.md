@@ -5,17 +5,17 @@
 - :mailbox: You can reach me with the links below
   
 [![Gmail](https://img.shields.io/badge/-Gmail-444444?style=flat&logo=git&logoColor=red)](mailto:marawanemad717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN%30-444444?style=flat-square-GMAIL-444444?-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![X](https://img.shields.io/badge/%30style=flat-square-444444?style=for-the-badge&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
-[![FaceBook](https://img.shields.io/badge/-FACEBOOK%30style=flat-square-444444?style=for-the-badge&logo=FACEBOOK&logoColor=blue)](https://www.facebook.com/marawanemad717/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-444444?style=flat&logo=git&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
+[![X](https://img.shields.io/badge/--444444?style=flat&logo=git&logoColor=black)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-FaceBook-444444?style=flat&logo=git&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
 <code><a href="https://www.java.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue)
+<code><a href="https://www.dart.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dart/dart-ar21.svg"></a></code>
+<code><a href="https://www.flutter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg"></a></code>
+<code><a href="https://www.Rorg/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/R/R-ar21.svg"></a></code>
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
