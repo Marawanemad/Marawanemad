@@ -4,10 +4,10 @@
 - :computer: Mobile Developer | Data Scientist | Software engineer 
 - :mailbox: You can reach me with the links below
   
-[![Gmail](http://img.shields.io/badge/-GMAIL%20-444444?style=flat-square-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marawanemad717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN%20style=flat-square-444444?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![X](https://img.shields.io/badge/%20style=flat-square-444444?style=for-the-badge&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
-[![FaceBook](https://img.shields.io/badge/-FACEBOOK%20style=flat-square-444444?style=for-the-badge&logo=FACEBOOK&logoColor=blue)](https://www.facebook.com/marawanemad717/)
+[![Gmail](http://img.shields.io/badge/-GMAIL%30-444444?style=flat-square-GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marawanemad717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN%30style=flat-square-444444?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
+[![X](https://img.shields.io/badge/%30style=flat-square-444444?style=for-the-badge&logo=X&logoColor=black)](https://x.com/Marawan_3mad)
+[![FaceBook](https://img.shields.io/badge/-FACEBOOK%30style=flat-square-444444?style=for-the-badge&logo=FACEBOOK&logoColor=blue)](https://www.facebook.com/marawanemad717/)
 
 ##### Languages I use
 
