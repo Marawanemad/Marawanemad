@@ -1,14 +1,11 @@
-[![Header](https://github.com/Marawanemad/Marawanemad/raw/master/profile.gif)](https://www.Marawanemad.com/)
-
 ##### Hi, I'm Marawan:
 
 - 🎓graduate from Computer and Data Science - Alexandria University
-
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marawanemad717@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marawan-emad-1ba82a214/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Marawanemad)
+[![adamalston.com](https://img.shields.io/badge/-Marwanemad.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Marawanemad)
 
 ##### Languages I use
 
@@ -24,18 +21,18 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=github&logoColor=181717)
 
 -
 ##### My projects:
 
 - Flutter projects:
-  - ![Social-App](https://github.com/Marawanemad/Social-App)
-  - ![Tasks-Reminder-App](https://github.com/Marawanemad/Tasks-Reminder-App) 
-  - ![X-O Game](https://github.com/Marawanemad/XO_Game) 
-  - ![Shop-App](https://github.com/Marawanemad/ShopApp) 
-  - ![News-App](https://github.com/Marawanemad/NewsApp) 
-  - ![7 Basics Applications](https://github.com/Marawanemad/Basics_7_Apps) 
+  - (https://github.com/Marawanemad/Social-App)
+  - (https://github.com/Marawanemad/Tasks-Reminder-App) 
+  - (https://github.com/Marawanemad/XO_Game) 
+  - (https://github.com/Marawanemad/ShopApp) 
+  - (https://github.com/Marawanemad/NewsApp) 
+  - (https://github.com/Marawanemad/Basics_7_Apps) 
 
   
   
