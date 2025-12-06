@@ -14,7 +14,7 @@
 - 📝[Data Science Resume](https://drive.google.com/file/d/1EybCWiY_TjD6dSht7It1BFqLPSoke5fn/view?usp=drive_link) <br>
 
 ##### Languages I use
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=blue)
@@ -31,7 +31,7 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat&logo=intellij-idea&logoColor=black)
 ![Figma](http://img.shields.io/badge/-Figma-444444?style=flat&logo=figma&logoColor=black)
 ![Canva](http://img.shields.io/badge/-Canva-444444?style=flat&logo=canva)
-
+![Power BI](https://img.shields.io/badge/-Power%20BI-444444?style=flat&logo=powerbi)
 
 
 ##### My projects:
